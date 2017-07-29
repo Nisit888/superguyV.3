@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityExample</string>
+    <string name="mobile_text">Mobile Portrait</string>
+</resources>
